@@ -1,0 +1,5 @@
+NAME                                        READY   STATUS             RESTARTS   AGE
+my-docker-deployment-5fbf48fbfd-7vtqc       0/1     ImagePullBackOff   0          17s
+my-docker-deployment-5fbf48fbfd-flkcw       0/1     ImagePullBackOff   0          17s
+text-analysis-deployment-7d4dbdd6f5-m27jr   0/1     ImagePullBackOff   0          171m
+text-analysis-deployment-7d4dbdd6f5-pmc64   0/1     ImagePullBackOff   0          171m
